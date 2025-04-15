@@ -1,6 +1,6 @@
-# Gametime Hero RSVP Service
+# Event RSVP System
 
-A simple, focused module for managing RSVP responses for events in the Gametime Hero platform.
+A modern, interactive event RSVP system built with React and TypeScript. This system allows users to manage event responses, view attendees, and track event statistics in real-time.
 
 ## Features
 
@@ -70,13 +70,23 @@ The code follows these principles:
 ## Preview
 
 ### Main Interface
-![Main Interface](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/main-interface.png)
+![Main Interface](preview/main.png)
+*The main event interface showing event details and RSVP options*
 
 ### RSVP Management
-![RSVP Management](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/rsvp-management.png)
+![RSVP Options](preview/RSVP.png)
+*RSVP options allowing users to select their attendance status*
 
 ### Attendee List
-![Attendee List](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/attendee-list.png)
+![Attendee List](preview/attendee.png)
+*Detailed view of friends and other attendees with their RSVP status*
 
 ### Statistics View
-![Statistics View](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/statistics.png) 
+![Statistics](preview/stats.png)
+*Real-time statistics showing attendance numbers and available spots*
+
+## Development Environment Setup
+
+```bash
+npm install
+```
