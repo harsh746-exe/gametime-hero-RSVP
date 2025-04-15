@@ -65,4 +65,18 @@ The code follows these principles:
 - Consistent naming conventions
 - Early returns
 - Clean separation of logic and presentation
-- Derived state where appropriate 
+- Derived state where appropriate
+
+## Preview
+
+### Main Interface
+![Main Interface](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/main-interface.png)
+
+### RSVP Management
+![RSVP Management](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/rsvp-management.png)
+
+### Attendee List
+![Attendee List](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/attendee-list.png)
+
+### Statistics View
+![Statistics View](https://raw.githubusercontent.com/harsh746-exe/gametime-hero-RSVP/main/preview/statistics.png) 
